@@ -1,0 +1,23 @@
+{
+  "name": "@mondolina/cutter-react",
+  "version": "1.0.0",
+  "description": "React package for cutter mondolina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondolina/cutter-react.git"
+  },
+  "keywords": [
+    "cutter",
+    "mondolina"
+  ],
+  "author": "mondolina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mondolina/cutter-react/issues"
+  },
+  "homepage": "https://github.com/mondolina/cutter-react#readme"
+}
